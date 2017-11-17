@@ -1,0 +1,20 @@
+SQL commands all uppercase
+var images  = ['apples','cheese','crackers']
+images[2] woould give me crackers
+var index = Math.floor(Math.random() * images.length)
+
+console.log (index)
+cosole.log(images[index])
+
+data types
+<body>
+<ul>
+  <li data-uid="42">Dave</li>
+  <li data-uid="456">Matt</li>
+  <li data-uid="567">Jake</li>
+</ul>
+</body>
+
+
+document.getElementsByTagName('li')(0)
+$('li')[0] same as above. 
